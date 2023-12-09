@@ -1,0 +1,6 @@
+
+tpython:S1192#"PDefine a constant instead of duplicating this literal 'red_light/0.png' 9 times.(Ä·Ê¯øÿÿÿÿ8“˜ýƒÅ1
+kpython:S2208"GImport only needed names or import the module and then use its members.(ÕÞ¯¸ûÿÿÿÿ8“˜ýƒÅ1
+kpython:S2208"GImport only needed names or import the module and then use its members.(Œ†Ù¨üÿÿÿÿ8“˜ýƒÅ1
+Ipython:S1481"+Remove the unused local variable "add_npc".(ßÜ¶}8“˜ýƒÅ1
+Ipython:S1481<"%Remove the unused local variable "i".(¼ªÛ‚ýÿÿÿÿ8“˜ýƒÅ1

@@ -1,0 +1,5 @@
+
+kpython:S2208"GImport only needed names or import the module and then use its members.(Øå®×ûÿÿÿÿ8Ö“ÊÎİ0
+Dpython:S14817"%Remove the unused local variable "i".(“Áïİ8Ö“ÊÎİ0
+Fpython:S1481*"'Remove the unused local variable "ray".(•°äû8×“ÊÎİ0
+xpython:S3776#"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¿ªõÑüÿÿÿÿ8Ú“ÊÎİ0
